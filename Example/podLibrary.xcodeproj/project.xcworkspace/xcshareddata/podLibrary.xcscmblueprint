@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ECEFB11B8897758FAAD21B96CE9A0E1E8775462E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ECEFB11B8897758FAAD21B96CE9A0E1E8775462E" : 0,
+    "B282C5162ADE88EB42D51ABB06D64A4E5E1F1192" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "81BB31CD-7957-4568-ABC7-49A7A356D1C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ECEFB11B8897758FAAD21B96CE9A0E1E8775462E" : "podLibrary\/",
+    "B282C5162ADE88EB42D51ABB06D64A4E5E1F1192" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "podLibrary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/podLibrary.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daisyNew\/BaseTabBarController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B282C5162ADE88EB42D51ABB06D64A4E5E1F1192"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daisyNew\/PodLibrary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECEFB11B8897758FAAD21B96CE9A0E1E8775462E"
+    }
+  ]
+}

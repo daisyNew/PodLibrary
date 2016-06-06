@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # podLibrary
 
 [![CI Status](http://img.shields.io/travis/niugaifang/podLibrary.svg?style=flat)](https://travis-ci.org/niugaifang/podLibrary)
@@ -27,3 +28,7 @@ niugaifang, niugaifang@juesheng.com
 ## License
 
 podLibrary is available under the MIT license. See the LICENSE file for more info.
+=======
+# PodLibrary
+Spec repo 
+>>>>>>> dba41cbcad3debde99bd89211ea713574e29919b
